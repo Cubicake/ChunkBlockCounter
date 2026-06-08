@@ -1,0 +1,9 @@
+name: ChunkBlockCounter
+prefix: ChunkBlockCounter
+version: '$version'
+
+main: games.cubi.chunkBlockCounter.ChunkBlockCounter
+api-version: '1.20.6'
+load: STARTUP
+
+authors: [ _Cubicake ]
